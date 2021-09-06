@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Adem\source\repos\Alg3\Alg3\list.h(181,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\Alg3\Alg3\list.h(200,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\Alg3\Alg3\list.h(201,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\Alg3\Alg3\list.h(213,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\Alg3\Alg3\lab3.cpp(83,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\source\repos\Alg3\Alg3\lab3.cpp(157,27): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\Adem\source\repos\Alg3\Debug\UnitTest1.lib и объект C:\Users\Adem\source\repos\Alg3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Adem\source\repos\Alg3\Debug\UnitTest1.dll

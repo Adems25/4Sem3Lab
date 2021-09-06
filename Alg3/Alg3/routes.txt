@@ -1,0 +1,12 @@
+Lviv;Vladivostok;5000
+Vladivostok;Moscow;2500
+Moscow;Saint-Petersburg;500
+Lviv;Saint-Petersburg;1500
+Saint-Petersburg;Moscow;500
+Saint-Petersburg;Ekaterinburg;3200
+Moscow;Ekaterinburg;2200
+Paris;Amsterdam;950
+Amsterdam;Berlin;600
+Berlin;London;1239
+Berlin;Paris;1500
+Paris;Berlin;1500
